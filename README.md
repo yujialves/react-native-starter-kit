@@ -1,7 +1,7 @@
 # react-native-starter-kit
 
 ## expo initialization
-Choose a template: blank (TypeScript)
+Choose a template: blank (TypeScript)  
 What is the name of your project?: sample
 
 ## Packages installed as dependencies
